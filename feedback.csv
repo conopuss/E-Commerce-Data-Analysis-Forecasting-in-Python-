@@ -1,0 +1,11 @@
+feedback_id,customer_id,feedback_text,rating
+1,1,Great product!,5
+2,2,Not what I expected.,2
+3,3,,4
+4,4,"Fast delivery, good quality.",5
+5,5,,3
+6,6,Excellent value!,5
+7,7,Could be better.,3
+8,8,,4
+9,9,Very durable.,5
+10,10,Affordable and useful.,4
